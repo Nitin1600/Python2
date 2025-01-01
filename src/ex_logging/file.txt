@@ -1,0 +1,5 @@
+2024-12-26 20:05:09,707Harmless debug message
+2024-12-26 20:05:09,707Just an information
+2024-12-26 20:05:09,707It's a warning
+2024-12-26 20:05:09,707Did you try to divide by zero
+2024-12-26 20:05:09,707Internet is down

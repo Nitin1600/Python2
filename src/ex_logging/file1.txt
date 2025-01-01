@@ -1,0 +1,12 @@
+2024-12-26 20:27:37,359The values of x and y are 3 and 0
+2024-12-26 20:27:37,359ZeroDivisionError:
+Traceback (most recent call last):
+  File "C:\Users\nitingpa\PycharmProjects\Python2\src\ex_logging\Lab035.py", line 15, in <module>
+    result = x/y
+             ~^~
+ZeroDivisionError: division by zero
+2024-12-26 20:27:37,362Harmless debug message
+2024-12-26 20:27:37,362Just an information
+2024-12-26 20:27:37,362It's a warning
+2024-12-26 20:27:37,362Did you try to divide by zero
+2024-12-26 20:27:37,362Internet is down
